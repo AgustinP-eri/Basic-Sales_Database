@@ -19,7 +19,7 @@ Stock: Inventory control
 Promotions: Discounts applicable to specific products
 
 Data Analysis
-The project includes SQL queries to perform business analysis, such as:
+The project includes Basic SQL queries to perform business analysis, such as:
 
 Total and average sales statistics
 
