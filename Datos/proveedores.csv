@@ -1,0 +1,151 @@
+proveedor_id,nombre_proveedor,pais,telefono
+1,Lewis PLC,Greece,001-982-881-9444x9678
+2,"Chandler, Johnson and Richards",Spain,+1-901-700-0383x0067
+3,Gutierrez-Maynard,Congo,548-850-4813
+4,Cervantes-Hall,Yemen,7174721753
+5,Benson PLC,Zambia,(882)902-2162x12224
+6,"Macias, Willis and Martin",Russian Federation,(705)938-7429x370
+7,Smith-Anderson,Austria,001-362-483-9787
+8,Dennis LLC,Latvia,809-342-9243
+9,Rios Ltd,Haiti,001-366-626-6189
+10,"Church, Carlson and Bryant",Guyana,+1-214-725-6294
+11,Jennings Inc,American Samoa,3966174366
+12,Kennedy Group,Armenia,001-630-852-5455x976
+13,Delacruz PLC,Hungary,(689)259-8292x3774
+14,Mills-Brennan,British Virgin Islands,7927583149
+15,"Taylor, Coleman and Martin",Cote d'Ivoire,915-197-7801
+16,"Day, Marsh and Hodges",Latvia,(867)881-1013
+17,Franklin-Johnston,Saudi Arabia,(414)964-4832x3215
+18,"Villegas, Romero and Pitts",Barbados,388.632.7099x1047
+19,"Ayers, Brooks and Shepard",Ukraine,454-294-7443
+20,"Dunn, Griffin and Butler",Namibia,(958)200-9232x234
+21,Myers and Sons,Jamaica,599.835.8563x72142
+22,Erickson Ltd,Nigeria,582.009.4115x528
+23,"Wilkins, Neal and Anderson",Vanuatu,(951)475-5951x7662
+24,"Brown, Woods and Christensen",Tonga,5453595718
+25,Sloan-Davenport,Cyprus,001-474-505-3957x4614
+26,Hill-Moore,Kiribati,001-124-166-1374x65632
+27,Davis Ltd,Tokelau,+1-367-079-2188
+28,Adams-Jones,Pakistan,+1-935-947-8271x135
+29,Mckinney-Taylor,Ecuador,001-713-366-0144x2228
+30,Olson-Hall,Madagascar,(609)618-9575x84395
+31,Wilson Inc,Senegal,833.905.3822
+32,Santiago-Miller,Central African Republic,859-731-7197x2963
+33,"Ryan, Fitzpatrick and Johnson",Antarctica (the territory South of 60 deg S),(935)935-3747
+34,"Spence, Anderson and Wilson",Jamaica,(842)929-3662
+35,Torres-Carr,Burundi,(437)533-7445
+36,Hickman PLC,Wallis and Futuna,375-814-4878
+37,Kim-Morrison,Slovakia (Slovak Republic),385.860.6199
+38,Hernandez-Obrien,Ireland,001-692-652-7148x002
+39,White Group,Tajikistan,154-096-7327x216
+40,Jimenez and Sons,Macedonia,001-561-463-5236x547
+41,"Figueroa, Khan and Arellano",Norfolk Island,425.481.2437x026
+42,King Inc,Denmark,730-941-8250
+43,"Sanders, Preston and Garcia",Bosnia and Herzegovina,(613)687-3535x384
+44,Winters-Houston,Cocos (Keeling) Islands,314.627.4336
+45,Woods-Duran,Lithuania,855-570-5364x6733
+46,Gilbert-Floyd,United States Minor Outlying Islands,174-551-5667
+47,Cooper-Mcclain,Norfolk Island,101-242-4103x3336
+48,"Maynard, Hicks and Carter",Nigeria,638-085-0495
+49,Martinez Group,Iraq,8051366196
+50,"Robinson, Bailey and Lopez",Mali,438-814-4269
+51,Anderson-Smith,Philippines,5020619244
+52,"Ray, Stein and Salas",Bosnia and Herzegovina,203.186.2180
+53,Mcdaniel Group,Uruguay,001-447-892-9984
+54,"Clark, Rodriguez and Stewart",Kenya,001-067-333-0444x02455
+55,Rodriguez LLC,San Marino,001-407-751-9096x25020
+56,Hall and Sons,Burundi,(091)436-8239x7702
+57,Green-Mathis,Svalbard & Jan Mayen Islands,708-529-4222x432
+58,Medina-Porter,Chile,001-825-545-6937x043
+59,Nelson Ltd,Malta,001-965-383-1219x658
+60,Jordan-Marshall,Paraguay,+1-414-739-7763x8203
+61,Johnson-Thomas,Saint Barthelemy,330.092.8436x507
+62,"Lopez, Quinn and Hughes",Cook Islands,901-634-9848
+63,Davis-Baker,French Polynesia,252.169.3449x11226
+64,Lee Ltd,Uganda,001-717-235-1972x50784
+65,Lawson PLC,Mauritania,597-340-3833x863
+66,Garcia Group,Finland,001-214-783-2507x4037
+67,"Martinez, Davis and Hicks",Italy,320-398-2347x457
+68,Carter Inc,Grenada,001-079-539-7282x089
+69,"Hill, Olson and Benson",Netherlands Antilles,871-640-8868
+70,"White, Avery and Moore",Cocos (Keeling) Islands,533.377.4998x673
+71,Martinez-Scott,New Caledonia,(316)332-5261
+72,Haas PLC,Zimbabwe,099.680.7512x202
+73,Stevens-Conrad,Indonesia,420-523-9529
+74,"Barron, Barron and Walker",Croatia,001-246-143-1733x6886
+75,"Kane, Hernandez and Gray",Guernsey,+1-564-089-0746
+76,"Baldwin, Lozano and Gutierrez",Macao,740-568-1795
+77,"White, Espinoza and Rich",Kazakhstan,(457)751-2965x339
+78,Nguyen Group,Western Sahara,632-920-6875
+79,"Turner, West and Li",Egypt,365-037-7711
+80,"Hernandez, Mckee and Morgan",Paraguay,3775573459
+81,"Chang, Terry and Burton",Aruba,(722)598-7840x9914
+82,Estrada LLC,Congo,001-432-952-9605x75014
+83,Farley Group,United Arab Emirates,001-783-240-6720
+84,Mayo-Robinson,Costa Rica,238.239.4832
+85,"Todd, Murray and Bush",Iraq,460-011-7183x453
+86,"Stone, Gaines and Lee",French Southern Territories,376.441.0134
+87,Hopkins Group,South Africa,(768)383-6866
+88,Roy-Acosta,Cyprus,001-600-389-2442x159
+89,Hunter-Lopez,Tokelau,750-405-5052x734
+90,"Harper, Clark and Harper",Moldova,001-569-811-2847x53462
+91,"Sanders, Wallace and Smith",Togo,9912769555
+92,Scott-Knox,Thailand,001-917-924-6291
+93,Burns Ltd,Morocco,+1-168-554-3598
+94,"Stewart, Moore and Miranda",Uganda,+1-166-311-5217x843
+95,Russell-Smith,Turks and Caicos Islands,390-146-3636
+96,Abbott Ltd,Finland,(499)942-1189
+97,Horton-Harris,Comoros,(250)001-2695
+98,Williams-Moore,Saint Vincent and the Grenadines,(243)956-1365
+99,"Warren, George and Bullock",French Guiana,(093)044-8359
+100,Phillips LLC,Trinidad and Tobago,586-686-3202x3487
+101,Davis-Hooper,Guernsey,(369)605-9999
+102,Hart PLC,United Arab Emirates,393-685-9918
+103,Lopez-Castro,Armenia,+1-627-299-2083x72615
+104,Lynch-Young,Korea,182-236-5045
+105,Marshall-Chen,Cuba,146.474.2169
+106,Dennis Inc,Sao Tome and Principe,207-845-2342x892
+107,"Hall, Knapp and Patterson",Yemen,207-218-0558
+108,"Scott, Perez and Phelps",Saint Lucia,(885)601-7570x197
+109,"Sullivan, Kaufman and Romero",Bolivia,+1-648-050-3306
+110,Anderson Ltd,Kiribati,+1-556-968-3591x892
+111,Arnold PLC,Bhutan,(576)506-6037
+112,"Mendoza, Friedman and Rodriguez",Holy See (Vatican City State),001-376-297-4665x464
+113,Miller and Sons,Martinique,418.291.4632x5482
+114,Gomez-Thompson,Brunei Darussalam,001-963-921-4971
+115,Taylor-Foster,Cayman Islands,(007)268-8161x3712
+116,"Castro, Johnson and Davis",Denmark,+1-005-090-1127x6617
+117,Hardy Inc,Turkmenistan,577.585.5119x0694
+118,Alexander-Baker,Bosnia and Herzegovina,001-016-508-3106x7014
+119,"Henry, Watkins and Stone",Mali,+1-006-667-5041x92163
+120,"Silva, Jones and Bond",Congo,403.670.7499x27005
+121,White LLC,Congo,433.725.4790x09578
+122,"Lewis, Miller and Logan",Paraguay,735.439.4003x03140
+123,Powell LLC,Sao Tome and Principe,903-240-9156
+124,Brandt PLC,Honduras,(423)623-6588x2625
+125,Taylor PLC,Northern Mariana Islands,+1-377-169-5016x9724
+126,"Holloway, Pearson and Christian",Bouvet Island (Bouvetoya),(689)278-5952
+127,Ramirez-Wilson,Albania,001-145-552-3717x8089
+128,Sanchez-Ross,Bahrain,873-452-7080
+129,"Gilbert, Flores and Stanley",Central African Republic,258-816-0455x59833
+130,Baker Inc,Saint Martin,001-798-438-4925x907
+131,"Wood, Smith and King",Ecuador,+1-087-048-6049x5110
+132,"Kelley, Parker and Smith",Argentina,739-175-4668
+133,Winters Group,Lao People's Democratic Republic,633-080-2346
+134,Ortega-Campbell,Guam,(057)233-9133
+135,Hernandez and Sons,Latvia,+1-059-417-2958x42531
+136,"Moran, Chase and Arias",Montenegro,(924)549-1879x781
+137,"Cox, Huff and Martin",Latvia,241-974-1780x023
+138,"Chase, Brown and Mcdonald",Nigeria,(679)470-1222
+139,Stephenson Group,Mauritius,+1-029-986-6233x2911
+140,Long Inc,Montserrat,936-180-7206x4164
+141,Blackburn-Kim,Tonga,314.403.1938
+142,"Ayers, Lawrence and Small",Paraguay,+1-835-103-2489x8227
+143,Chapman PLC,Chad,156-774-6509
+144,Hayden PLC,Albania,242.144.9742
+145,Fitzpatrick Inc,Gambia,001-328-599-0371
+146,Watson Inc,Hungary,442.883.3419x40596
+147,"Fuller, Smith and Smith",Gibraltar,+1-129-247-1057
+148,Garcia Inc,Anguilla,(788)937-5906
+149,Clark PLC,British Indian Ocean Territory (Chagos Archipelago),+1-159-100-8703x3562
+150,Morris PLC,United Arab Emirates,+1-151-949-8382x8661
