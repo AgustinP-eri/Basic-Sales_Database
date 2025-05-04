@@ -7,26 +7,38 @@ Structure
 The database consists of the following tables:
 
 Customers: Stores customer information (name, gender, age, email, etc.)
+
 Products: Catalog of products with categories and prices
+
 Suppliers: Companies that supply the products
+
 Sales: Record of transactions made
+
 Stock: Inventory control
+
 Promotions: Discounts applicable to specific products
 
 Data Analysis
 The project includes Basic SQL queries to perform business analysis, such as:
+
 Total and average sales statistics
+
 Customer classification by age and gender
+
 Product analysis by category
+
 Identification of top customers
+
 Best-selling products
+
 Relationship between products and suppliers
 
 Technical Features
 
 Database implemented in MySQL
-Normalized structure with relationships between tables
-Optimized indexes to improve query performance
+
+Normalized structure with relationships between tables,
+optimized indexes to improve query performance
 SQL queries with aggregation operations, grouping, and subqueries
 
 Usage
