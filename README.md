@@ -1,53 +1,53 @@
-Database Project
+Descripción
+Este proyecto implementa una base de datos relacional para gestionar las ventas en un negocio minorista. El sistema permite el registro de información sobre clientes, productos, proveedores, stock en sucursales, ventas y promociones.
 
-Description
-This project implements a relational database to manage sales in a retail business. The system allows for the registration of information regarding customers, products, suppliers, stock in branches, sales, and promotions.
+Estructura
+La base de datos consta de las siguientes tablas:
 
-Structure
-The database consists of the following tables:
+Clientes: Almacena información sobre los clientes (nombre, género, edad, correo electrónico, etc.)
 
-Customers: Stores customer information (name, gender, age, email, etc.)
+Productos: Catálogo de productos con categorías y precios.
 
-Products: Catalog of products with categories and prices
+Proveedores: Empresas que suministran los productos.
 
-Suppliers: Companies that supply the products
+Ventas: Registro de las transacciones realizadas.
 
-Sales: Record of transactions made
+Stock: Control de inventario.
 
-Stock: Inventory control
+Promociones: Descuentos aplicables a productos específicos.
 
-Promotions: Discounts applicable to specific products
+Análisis de Datos
+El proyecto incluye consultas SQL básicas para realizar análisis del negocio, como:
 
-Data Analysis
-The project includes Basic SQL queries to perform business analysis, such as:
+Estadísticas de ventas totales y promedio.
 
-Total and average sales statistics
+Clasificación de clientes por edad y género.
 
-Customer classification by age and gender
+Análisis de productos por categoría.
 
-Product analysis by category
+Identificación de los mejores clientes.
 
-Identification of top customers
+Productos más vendidos.
 
-Best-selling products
+Relación entre productos y proveedores.
 
-Relationship between products and suppliers
+Características Técnicas
 
-Technical Features
+Base de datos implementada en MySQL.
 
-Database implemented in MySQL
+Estructura normalizada con relaciones entre tablas.
 
-Normalized structure with relationships between tables,
-optimized indexes to improve query performance
-SQL queries with aggregation operations, grouping, and subqueries
+Índices optimizados para mejorar el rendimiento de las consultas.
 
-Usage
-To use this project:
+Consultas SQL con operaciones de agregación, agrupamiento y subconsultas.
 
-Execute the table creation script.
+Uso
+Para utilizar este proyecto:
 
-Load the test data.
+Ejecuta el script de creación de tablas.
 
-Use the provided queries to analyze the data.
+Carga los datos de prueba.
 
-The queries are organized by category and can be modified according to specific analysis needs.
+Usa las consultas proporcionadas para analizar los datos.
+
+Las consultas están organizadas por categoría y pueden ser modificadas según las necesidades específicas de análisis.
